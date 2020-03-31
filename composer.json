@@ -1,4 +1,6 @@
 {
+    "name": "cynnah/discovery",
+    "description": "Base of my Discovery API",
     "type": "project",
     "license": "proprietary",
     "require": {
